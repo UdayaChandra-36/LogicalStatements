@@ -26,7 +26,6 @@ public static void main(String[]args) {
 	s1.author_name = "Udaya";
 	s1.available_copies = 21;
 	s1.book_details();
-
 	System.out.println("********************************");
 	Library s2 = new Library();
 	librarian_name = "james";
